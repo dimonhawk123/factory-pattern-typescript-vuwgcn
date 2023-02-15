@@ -1,0 +1,5 @@
+export enum CONSTANTS {
+  MYSQL = 'MySQL',
+  POSTGRESS = 'POSTGRESS',
+  SQLSERVER = 'SQLSERVER',
+}
